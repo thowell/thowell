@@ -1,6 +1,6 @@
 ### Hi, I'm Taylor!
 
-PhD candidate at Stanford University working on motion planning for robots. I am interested in open and reproducible research and building useful and performant tools for robotic systems.
+PhD candidate at [Stanford University](https://www.stanford.edu/) working with the [Robotic Exploration Lab](https://roboticexplorationlab.org/) on motion planning for robots. I am interested in open and reproducible research and building useful and performant tools for robotic systems.
 
 <!--
 **thowell/thowell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
