@@ -1,6 +1,6 @@
 ### Hi, I'm Taylor!
 
-PhD candidate at [Stanford University](https://www.stanford.edu/) working with the [Robotic Exploration Lab](https://roboticexplorationlab.org/) on motion planning for robots. I am interested in open and reproducible research and building useful and performant tools for robotic systems.
+PhD candidate at [Stanford University](https://www.stanford.edu/) working with the [Robotic Exploration Lab](https://roboticexplorationlab.org/) on motion planning for robots. I am interested in open and reproducible research and building useful and performant tools for robotic systems. Currently working on fast [model-predictive control](https://github.com/thowell/ContactImplicitMPC.jl) algorithms and [differentiable simulators](https://github.com/thowell/RoboDojo.jl) for rigid-body dynamics with contact.
 
 <!--
 **thowell/thowell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
