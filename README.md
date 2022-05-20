@@ -6,6 +6,8 @@ Currently working on:
 - [model-predictive control](https://github.com/thowell/ContactImplicitMPC.jl) algorithms for robots that make and break contact with the environment
 - [differentiable simulators](https://github.com/thowell/RoboDojo.jl) for rigid-body dynamics with contact
 
+Previously:
+- interned at [Google Brain](https://research.google/teams/brain/robotics/)
 <!--
 **thowell/thowell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
