@@ -2,9 +2,10 @@
 
 PhD candidate at [Stanford University](https://www.stanford.edu/) working with the [Robotic Exploration Lab](https://roboticexplorationlab.org/) on motion planning for robots. I am interested in open and reproducible research and building useful and performant tools for robotic systems. 
 
-Currently working on:
-- [model-predictive control](https://github.com/thowell/ContactImplicitMPC.jl) algorithms for robots that make and break contact with the environment
+Currently working on simulation, planning, and control:
 - [differentiable simulators](https://github.com/thowell/RoboDojo.jl) for rigid-body dynamics with contact
+- [non-convex optimization solvers](https://github.com/thowell/CALIPSO.jl) for robotic systems
+- [model-predictive control](https://github.com/thowell/ContactImplicitMPC.jl) algorithms for robots that make and break contact with the environment
 
 Previously:
 - research intern at [Google Brain](https://research.google/teams/brain/robotics/)
