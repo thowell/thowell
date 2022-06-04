@@ -7,7 +7,10 @@ Currently working on:
 - [differentiable simulators](https://github.com/thowell/RoboDojo.jl) for rigid-body dynamics with contact
 
 Previously:
-- interned at [Google Brain](https://research.google/teams/brain/robotics/)
+- research intern at [Google Brain](https://research.google/teams/brain/robotics/)
+- undergraduate researcher [Telerobotics Lab](https://www.telerobotics.utah.edu/)
+- robotics instructor [University of Utah Computer Science GREAT summer camp](https://www.cs.utah.edu/~dejohnso/GREAT/)
+- undergraduate researcher [State of Utah Center of Excellence for Biomedical Microfluidics](https://mems.utah.edu/)
 <!--
 **thowell/thowell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
