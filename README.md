@@ -1,6 +1,6 @@
 ### Hi, I'm Taylor!
 
-Research Scientist Intern @ [DeepMind](https://www.deepmind.com/) and PhD candidate at [Stanford University](https://www.stanford.edu/) working with the [Robotic Exploration Lab](https://roboticexplorationlab.org/) on optimization tools, differentiable physics engines, and control for robots. I am interested in open and reproducible research and building useful and performant tools for robotic systems. 
+Research Scientist Intern @ [DeepMind](https://www.deepmind.com/) and PhD candidate @ [Stanford University](https://www.stanford.edu/) working with the [Robotic Exploration Lab](https://roboticexplorationlab.org/) on optimization tools, differentiable physics engines, and control for robots. I am interested in open and reproducible research and building useful and performant tools for robotic systems. 
 
 Currently working on simulation, planning, and control:
 - [differentiable physics](https://github.com/thowell/RoboDojo.jl) for rigid-body dynamics with contact
