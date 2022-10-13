@@ -4,11 +4,11 @@ PhD candidate @ [Stanford University](https://www.stanford.edu/) working with th
 
 Currently working on simulation, planning, and control:
 - [differentiable physics](https://github.com/thowell/RoboDojo.jl) for rigid-body dynamics with contact
-- [non-convex optimization solvers](https://github.com/thowell/CALIPSO.jl) for robotic systems
+- [non-convex solvers](https://github.com/thowell/CALIPSO.jl) for robotic systems
 - [predictive control](https://github.com/thowell/ContactImplicitMPC.jl) algorithms for robots that make and break contact with the environment
 
 Previously:
-- research scientist intern at [DeepMind](https://www.deepmind.com/) on MuJoCo team
+- research scientist intern at [DeepMind](https://www.deepmind.com/) on MuJoCo simulation team
 - research intern at [Google Brain](https://research.google/teams/brain/robotics/)
 - undergraduate researcher [Telerobotics Lab](https://www.telerobotics.utah.edu/)
 - robotics instructor [University of Utah Computer Science GREAT summer camp](https://www.cs.utah.edu/~dejohnso/GREAT/)
