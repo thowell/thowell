@@ -1,11 +1,11 @@
 ### Hi, I'm Taylor!
 
-PhD candidate @ [Stanford University](https://www.stanford.edu/) working with the [Robotic Exploration Lab](https://roboticexplorationlab.org/) on optimization tools, differentiable physics engines, and control for robots. I am interested in open and reproducible research and building useful and performant tools for robotic systems. 
+PhD candidate @ [Stanford University](https://www.stanford.edu/) working with the [Robotic Exploration Lab](https://roboticexplorationlab.org/) on optimization tools, differentiable physics engines, and control for robots. I am interested in open and reproducible research, including building useful and performant tools for robotic systems. 
 
 Currently working on simulation, planning, and control:
 - [differentiable physics](https://github.com/thowell/RoboDojo.jl) for rigid-body dynamics with contact
 - [non-convex optimization solvers](https://github.com/thowell/CALIPSO.jl) for robotic systems
-- [model-predictive control](https://github.com/thowell/ContactImplicitMPC.jl) algorithms for robots that make and break contact with the environment
+- [predictive control](https://github.com/thowell/ContactImplicitMPC.jl) algorithms for robots that make and break contact with the environment
 
 Previously:
 - research scientist intern at [DeepMind](https://www.deepmind.com/) on MuJoCo team
