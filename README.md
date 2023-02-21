@@ -1,14 +1,15 @@
 ### Hi, I'm Taylor!
 
-PhD candidate @ [Stanford University](https://www.stanford.edu/) working with the [Robotic Exploration Lab](https://roboticexplorationlab.org/) on optimization tools, differentiable physics engines, and control for robots. I am interested in open and reproducible research, including building useful and performant tools for robotic systems. 
+Currently looking for Research Scientist positions in industry.
 
-Currently working on simulation, planning, and control:
-- [interactive predictive control](https://github.com/deepmind/mujoco_mpc)
+My research focus is **embodied intelligence**. Recently, I have been working on:
+- [interactive predictive control](https://github.com/deepmind/mujoco_mpc) for locomotion and manipulation
 - [differentiable physics](https://github.com/thowell/RoboDojo.jl) for rigid-body dynamics with contact
-- [non-convex solvers](https://github.com/thowell/CALIPSO.jl) for robotic systems
+- [non-convex solvers](https://github.com/thowell/CALIPSO.jl) for planning with conic and complementarity constraints
 - [predictive control algorithms](https://github.com/thowell/ContactImplicitMPC.jl) algorithms for robots that make and break contact with the environment
 
 Previously:
+- PhD at Stanford University with Zac Manchester and the [Robotic Exploration Lab](https://roboticexplorationlab.org/)
 - research scientist intern at [DeepMind](https://www.deepmind.com/) on MuJoCo simulation team
 - research intern at [Google Brain](https://research.google/teams/brain/robotics/)
 - undergraduate researcher [Telerobotics Lab](https://www.telerobotics.utah.edu/)
