@@ -2,7 +2,7 @@
 
 Currently looking for Research Scientist positions in industry.
 
-My research focus is **embodied intelligence**. Recently, I have been working on:
+My research focus is **embodied intelligence** via high-performance optimization. Recently, I have been working on:
 - [interactive predictive control](https://github.com/deepmind/mujoco_mpc) for locomotion and manipulation
 - [differentiable physics](https://github.com/thowell/RoboDojo.jl) for rigid-body dynamics with contact
 - [non-convex solvers](https://github.com/thowell/CALIPSO.jl) for planning with conic and complementarity constraints
