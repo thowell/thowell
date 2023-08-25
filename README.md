@@ -15,6 +15,8 @@ Previously:
 - undergraduate researcher [Telerobotics Lab](https://www.telerobotics.utah.edu/)
 - robotics instructor [University of Utah Computer Science GREAT summer camp](https://www.cs.utah.edu/~dejohnso/GREAT/)
 - undergraduate researcher [State of Utah Center of Excellence for Biomedical Microfluidics](https://mems.utah.edu/)
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=thowell&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&theme=dark"/>
 <!--
 **thowell/thowell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
