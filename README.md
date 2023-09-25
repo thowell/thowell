@@ -8,6 +8,12 @@ My research focus is **embodied intelligence** via high-performance optimization
 - [non-convex solvers](https://github.com/thowell/CALIPSO.jl) for planning with conic and complementarity constraints
 - [predictive control algorithms](https://github.com/thowell/ContactImplicitMPC.jl) algorithms for robots that make and break contact with the environment
 
+[**Google Scholar**](https://scholar.google.com/citations?user=z2F7CSEAAAAJ&hl=en&oi=ao)
+
+[**CV**]([github.com/thowell/cv/](https://github.com/thowell/cv/blob/master/cv/cv.pdf))
+
+[**Website**](thowell.github.io)
+
 Previously:
 - PhD at Stanford University with Zac Manchester and the [Robotic Exploration Lab](https://roboticexplorationlab.org/)
 - research scientist intern at [DeepMind](https://www.deepmind.com/) on MuJoCo simulation team
