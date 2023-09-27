@@ -10,9 +10,9 @@ My research focus is **embodied intelligence** via high-performance optimization
 
 [**Google Scholar**](https://scholar.google.com/citations?user=z2F7CSEAAAAJ&hl=en&oi=ao)
 
-[**CV**]([github.com/thowell/cv/](https://github.com/thowell/cv/blob/master/cv/cv.pdf))
+[**CV**](https://github.com/thowell/cv/blob/master/cv/cv.pdf)
 
-[**Website**](thowell.github.io)
+[**Website**](https://thowell.github.io)
 
 Previously:
 - PhD at Stanford University with Zac Manchester and the [Robotic Exploration Lab](https://roboticexplorationlab.org/)
