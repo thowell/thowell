@@ -1,8 +1,6 @@
 ### Hi, I'm Taylor!
 
-Currently looking for Research Scientist positions in industry.
-
-My research focus is **embodied intelligence** via high-performance optimization. Recently, I have been working on:
+My research focus is **embodied intelligence** and high-performance robotics. Recently, I have been working on:
 - [interactive predictive control](https://github.com/deepmind/mujoco_mpc) for locomotion and manipulation
 - [differentiable physics](https://github.com/thowell/RoboDojo.jl) for rigid-body dynamics with contact
 - [non-convex solvers](https://github.com/thowell/CALIPSO.jl) for planning with conic and complementarity constraints
@@ -16,11 +14,11 @@ My research focus is **embodied intelligence** via high-performance optimization
 
 Previously:
 - PhD at Stanford University with Zac Manchester and the [Robotic Exploration Lab](https://roboticexplorationlab.org/)
-- research scientist intern at [DeepMind](https://www.deepmind.com/) on MuJoCo simulation team
-- research intern at [Google Brain](https://research.google/teams/brain/robotics/)
-- undergraduate researcher [Telerobotics Lab](https://www.telerobotics.utah.edu/)
+- research scientist intern at [DeepMind](https://www.deepmind.com/) with Yuval Tassa on MuJoCo simulation team
+- research intern at [Google Brain](https://research.google/teams/brain/robotics/) with Vikas Sindhwani
+- undergraduate researcher [Telerobotics Lab](https://www.telerobotics.utah.edu/) with Jake Abbott
 - robotics instructor [University of Utah Computer Science GREAT summer camp](https://www.cs.utah.edu/~dejohnso/GREAT/)
-- undergraduate researcher [State of Utah Center of Excellence for Biomedical Microfluidics](https://mems.utah.edu/)
+- undergraduate researcher [State of Utah Center of Excellence for Biomedical Microfluidics](https://mems.utah.edu/) with Bruce Gale
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=thowell&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&theme=dark"/>
 <!--
