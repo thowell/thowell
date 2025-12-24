@@ -1,6 +1,7 @@
 ### Hi, I'm Taylor!
 
-My research focus is **embodied intelligence** and high-performance robotics. Recently, I have been working on:
+My work is focused on **embodied intelligence** for robotics. Relevant work includes:
+- [GPU optimized physics engine](https://github.com/google-deepmind/mujoco_warp) for robotics
 - [interactive predictive control](https://github.com/deepmind/mujoco_mpc) for locomotion and manipulation
 - [differentiable physics](https://github.com/thowell/RoboDojo.jl) for rigid-body dynamics with contact
 - [non-convex solvers](https://github.com/thowell/CALIPSO.jl) for planning with conic and complementarity constraints
@@ -12,7 +13,11 @@ My research focus is **embodied intelligence** and high-performance robotics. Re
 
 [**Website**](https://thowell.github.io)
 
+Currently:
+- research scientist at Google DeepMind in London
+  
 Previously:
+- research scientist at Fauna Robotics in New York City
 - PhD at Stanford University with Zac Manchester and the [Robotic Exploration Lab](https://roboticexplorationlab.org/)
 - research scientist intern at [DeepMind](https://www.deepmind.com/) with Yuval Tassa on MuJoCo simulation team
 - research intern at [Google Brain](https://research.google/teams/brain/robotics/) with Vikas Sindhwani
